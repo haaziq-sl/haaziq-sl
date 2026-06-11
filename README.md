@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**haaziq-sl/haaziq-sl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohammed Haaziq Jamal
 
-Here are some ideas to get you started:
+Member of Technical Staff @ Stellon Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on:
+- KittenTTS
+- Qwen-ASR
+- C++ inference engines
+- Edge AI
+- Speech AI
+  
+Professional account.
+Personal projects: @[Haaziq386](https://github.com/Haaziq386)
